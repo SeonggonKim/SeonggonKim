@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... Yonsei Graduate School
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Sociable Data Analyst
-* Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
-I organize a group of developers who write blog posts - 글쓰는 개발자 모임, 글또
-Interest
-MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-Google Cloud Platform(Especially, BigQuery)
-Operation Research
-Leadership, Mentoring, Writing, Presentation
-Tech Blog Badge 
+
+### Interest
+
+### Blog
