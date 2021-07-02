@@ -5,8 +5,8 @@
 
 ### Interest
 * ML, NLP, Image Analysis
-* Presentation, Writing, Leadership
-* Weight Training
+* Presentation, Writing, Leadership 
+* Soccer, Basketball, Tennis, Weight Training ⚽
 
 ### Blog
 * 대학원생 고니의 데이터 분석 https://data-miner-gon.tistory.com/
