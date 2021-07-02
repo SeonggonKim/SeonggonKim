@@ -1,8 +1,12 @@
 ### Sociable Data Analyst
-* Yonsei Graduate School master´s course (DataMining Lab)
+* Yonsei Graduate School Master´s Course (DataMining Lab)
+* Machine Learning, Deep Learning
 * Python, R, SAS, SPSS
-* Machine Learning, Deep Learning (NLP, Image Analysis)
 
 ### Interest
+* ML, NLP, Image Analysis
+* Presentation, Writing, Leadership
+* Weight Training
 
 ### Blog
+* https://data-miner-gon.tistory.com/
