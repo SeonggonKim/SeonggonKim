@@ -11,8 +11,8 @@
 ### Blog
 * 대학원생 고니의 데이터 분석 https://data-miner-gon.tistory.com/
 
-<a href="https://instagram.com/s_goniiiii.dev">
+<a href="https://instagram.com/s_goniiiii">
     <img 
-        src="http://img.shields.io/badge/-Instagram-yellow?style=flat&logo=Instagram&link=https://instagram.com/s_goniiiii.dev/"
+        src="http://img.shields.io/badge/-Instagram-yellow?style=flat&logo=Instagram&link=https://instagram.com/s_goniiiii/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
