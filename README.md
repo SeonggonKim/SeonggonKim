@@ -5,7 +5,7 @@
 
 ### Interest
 * ML, NLP, Image Analysis
-* Presentation, Writing, Leadership 
+* Presentation, Discussion, Writing, Leadership 
 * Soccer, Basketball, Weight Training
 
 ### Blog
