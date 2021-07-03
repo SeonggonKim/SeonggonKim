@@ -18,9 +18,6 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-yellow?style=flat&logo=Instagram&link=https://instagram.com/s_goniiiii/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
-
 </a>	
 	
   <div align=center>
