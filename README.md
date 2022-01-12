@@ -11,7 +11,7 @@
 * Python, R, SAS, SQL
 
 ### Interest
-* ML, NLP, Image Analysis
+* ML, NLP, Object Detection
 * Presentation, Discussion, Writing, Leadership 
 * Soccer, Basketball, Weight Training
 
