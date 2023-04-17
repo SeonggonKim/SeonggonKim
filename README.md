@@ -6,16 +6,17 @@
   </div>
 
 ### Sociable Data Analyst
-* Yonsei Graduate School Master´s Course (DataMining Lab)
+* Samsung Electronics DS Foundry
+* Master of Science in Statistics (Yonsei Graduate School / DataMining Lab)
 * Machine Learning, Deep Learning
 * Python, R, SAS, SQL
 
 ### Interest
-* ML, NLP, Object Detection
+* Data Science, ML, DL, Object Detection
 * Presentation, Discussion, Writing, Leadership 
 * Soccer, Basketball, Weight Training
 
-### Awards
+### Major Awards
 * 2019 빅콘테스트 퓨쳐스리그 대상 (과학기술정보통신부장관상)
 * 2021 빅콘테스트 챔피언리그 대상 (과학기술정보통신부장관상)
 
