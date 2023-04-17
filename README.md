@@ -21,7 +21,7 @@
 * 2021 빅콘테스트 챔피언리그 대상 (과학기술정보통신부장관상)
 
 ### Blog
-* 대학원생 고니의 데이터 분석 https://data-miner-gon.tistory.com/
+* 직장인 고니의 데이터 분석 https://data-miner-gon.tistory.com/
 
 <a href="https://instagram.com/s_goniiiii">
     <img 
